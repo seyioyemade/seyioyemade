@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://seyioyemade.github.io](https://seyioyemade.github.io).
 
-- 📫 How to reach me **seyioyemade918@gmail.com**
+- 📫 How to reach me: **seyioyemade918@gmail.com**
 
 - 😄 Pronouns: **he/him**
 

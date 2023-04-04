@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **he/him**
 
-- ⚡ Fun fact **I love listening to music.**
+- ⚡ Fun fact: **I love listening to music.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyioyemade&label=Profile%20views&color=0e75b6&style=flat" alt="seyioyemade" /> </p>

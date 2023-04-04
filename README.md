@@ -3,21 +3,21 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **advanced JavaScript**
+- 🔭 I’m currently working on **advanced JavaScript.**
 
-- 🌱 I’m currently learning **React, Ruby, Rails and Redux**
+- 🌱 I’m currently learning **React, Ruby, Rails and Redux.**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking out for **new opportunities**
+- 🤝 I’m looking out for **new opportunities.**
 
-- 👨‍💻 All of my projects are available at [https://seyioyemade.github.io](https://seyioyemade.github.io)
+- 👨‍💻 All of my projects are available at [https://seyioyemade.github.io](https://seyioyemade.github.io).
 
 - 📫 How to reach me **seyioyemade918@gmail.com**
 
 - 😄 Pronouns: **he/him**
 
-- ⚡ Fun fact **I love listening to music**
+- ⚡ Fun fact **I love listening to music.**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyioyemade&label=Profile%20views&color=0e75b6&style=flat" alt="seyioyemade" /> </p>

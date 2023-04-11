@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Seyi</h1>
-<h3 align="center">An Aspiring Full-Stack Software Developer from Nigeria.</h3>
+<h3 align="center">An aspiring Full-Stack Software Developer from Nigeria.</h3>
 
 <h3 align="left">About me:</h3>
 

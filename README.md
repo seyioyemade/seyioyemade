@@ -3,8 +3,6 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **advanced JavaScript.**
-
 - 🌱 I’m currently learning **React, Ruby, Rails and Redux.**
 
 - 👯 I’m looking to collaborate on **open source projects.**

@@ -4,6 +4,8 @@
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **React, Ruby, Rails and Redux.**
+  
+- 🤝 I’m available for **freelancing**.
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
